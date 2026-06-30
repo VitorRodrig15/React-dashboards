@@ -40,7 +40,7 @@ As imagens das telas foram organizadas na pasta [Prints](Prints) para ilustrar c
 
 * **Biblioteca:**
   ![Livros](Prints/4LIvros.png)
-  *Página de livros em formato de cards com links para visualização.*
+  *Página de livros em formato de cards com links para visualização dos livros em sites*
 
 * **Análises:**
   ![Analises](Prints/5Analises.png)
