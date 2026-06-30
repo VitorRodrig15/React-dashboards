@@ -1,0 +1,74 @@
+.AnalysisPage {
+  width: 100%;
+}
+
+.analysisHeader {
+  margin-bottom: 1rem;
+}
+
+.analysisHeader h2 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.subtitle {
+  margin: 0.2rem 0 0;
+  color: var(--gray);
+}
+
+.summaryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.summaryCard {
+  background: white;
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.summaryCard span {
+  color: var(--gray);
+  font-size: 0.92rem;
+}
+
+.summaryCard strong {
+  font-size: 1.2rem;
+  color: #111827;
+}
+
+.summaryCard small {
+  color: #64748b;
+}
+
+.insightGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.panelCard {
+  background: white;
+  border-radius: 16px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.panelCard h3 {
+  margin: 0 0 0.75rem;
+}
+
+.panelCard ul {
+  margin: 0;
+  padding-left: 1rem;
+  color: #475569;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
