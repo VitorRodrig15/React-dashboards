@@ -22,7 +22,8 @@ As imagens das telas foram organizadas na pasta [Prints](Prints) para ilustrar c
 
 * **Tela Inicial / Dashboard:**
   ![Dashboard](Prints/1Tela_inicial.png)
-  *Cards de métricas financeiras, atividades recentes e visão geral de pedidos.*
+  *Cards de métricas financeiras, atividades recentes e visão geral de pedidos, ao clicar nos cards abrira o dashboard respectivo com informações complementares de cada opção selecionada*
+  
 
 * **Gerenciamento de Pedidos:**
   ![Pedidos](Prints/2Pedidos.png)
@@ -63,4 +64,19 @@ Certifique-se de ter o **Git** e o **Node.js** (junto com o **Yarn**) instalados
 1. **Clone este repositório:**
    ```bash
    git clone [https://github.com/VitorRodrig15/React-dashboards](https://github.com/VitorRodrig15/React-dashboards)
+
+2. Acesse a pasta do projeto, e instale as configurações adicionais no terminal:
+    yarn
+
+3. Inicie o servidor de desenvolvimento:
+    yarn start
+
+4. Acesse no seu navegador:
+O projeto abrirá automaticamente na porta padrão. Caso contrário, acesse:
+
+    👉 http://localhost:3000
+
+Após isso pode utilizar normalmente e editar como quiser, para conhecer cada funcionamento e estudar sobre.
+
+--- Desenvolvido como um projeto prático para fins de estudo e evolução técnica.
 
