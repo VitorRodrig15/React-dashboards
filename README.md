@@ -1,7 +1,9 @@
 # 📚 Painel Administrativo e Interativo
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 Este é um projeto de estudo desenvolvido em **React** que simula o painel de gerenciamento (Dashboard) de uma livraria online. O objetivo principal é consolidar conhecimentos em componentização, gerenciamento de estado e construção de interfaces dinâmicas e responsivas.
 
