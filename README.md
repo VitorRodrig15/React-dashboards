@@ -1,4 +1,7 @@
-# 📚 Livaria Online - Painel Administrativo
+# 📚 Painel Administrativo e Interativo
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Este é um projeto de estudo desenvolvido em **React** que simula o painel de gerenciamento (Dashboard) de uma livraria online. O objetivo principal é consolidar conhecimentos em componentização, gerenciamento de estado e construção de interfaces dinâmicas e responsivas.
 
