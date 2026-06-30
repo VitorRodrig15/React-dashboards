@@ -29,7 +29,7 @@ As imagens das telas foram organizadas na pasta [Prints](Prints) para ilustrar c
   *Página de pedidos com status, datas e detalhes.*
 
 * **Controle de Clientes:**
-  ![Clientes](Prints3Clientes.png)
+  ![Clientes](Prints/3Clientes.png)
   *Página de clientes com informações complementares e histórico.*
 
 * **Biblioteca:**
