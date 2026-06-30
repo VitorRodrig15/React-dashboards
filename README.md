@@ -18,26 +18,26 @@ O sistema conta com 5 visões principais projetadas para otimizar a experiência
 
 ## 📸 Demonstração Visual (Prints)
 
-As imagens das telas foram organizadas na pasta [prints](prints) para ilustrar cada parte do projeto:
+As imagens das telas foram organizadas na pasta [Prints](Prints) para ilustrar cada parte do projeto:
 
 * **Tela Inicial / Dashboard:**
-  ![Dashboard](prints/1Tela_inicial.png)
+  ![Dashboard](Prints/1Tela_inicial.png)
   *Cards de métricas financeiras, atividades recentes e visão geral de pedidos.*
 
 * **Gerenciamento de Pedidos:**
-  ![Pedidos](prints/2Pedidos.png)
+  ![Pedidos](Prints/2Pedidos.png)
   *Página de pedidos com status, datas e detalhes.*
 
 * **Controle de Clientes:**
-  ![Clientes](prints/3Clientes.png)
+  ![Clientes](Prints3Clientes.png)
   *Página de clientes com informações complementares e histórico.*
 
 * **Biblioteca:**
-  ![Livros](prints/4LIvros.png)
+  ![Livros](Prints/4LIvros.png)
   *Página de livros em formato de cards com links para visualização.*
 
 * **Análises:**
-  ![Analises](prints/5Analises.png)
+  ![Analises](Prints/5Analises.png)
   *Página de análise e estatísticas com indicadores e insights.*
 
 ---
