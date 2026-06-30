@@ -23,6 +23,11 @@ As imagens das telas foram organizadas na pasta [Prints](Prints) para ilustrar c
 * **Tela Inicial / Dashboard:**
   ![Dashboard](Prints/1Tela_inicial.png)
   *Cards de métricas financeiras, atividades recentes e visão geral de pedidos, ao clicar nos cards abrira o dashboard respectivo com informações complementares de cada opção selecionada*
+
+* **Dashboards dos Cards:**
+  ![Dashboard](Prints/1Dashboard.png)
+  ![Dashboard](Prints/2Dashboard.png)
+  *Cada card tem seu dashboard, visualizando dados criados no arquivo, para base informativa e analitica.*
   
 
 * **Gerenciamento de Pedidos:**
